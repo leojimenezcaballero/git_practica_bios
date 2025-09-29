@@ -19,6 +19,9 @@ public class Main {
 
         Estudiante estudianteLeonardo = new Estudiante("Leonardo Jimenez", "Programación para Testers");
         estudianteLeonardo.presentarse(); 
+
+        Estudiante estudiantePedro = new Estudiante("Pedro Gomez", "Programación para Testers");
+        estudiantePedro.presentarse();
       
         //Pega tu código aquí abajo
 

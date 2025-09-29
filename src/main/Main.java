@@ -20,6 +20,8 @@ public class Main {
         Estudiante estudianteLeonardo = new Estudiante("Leonardo Jimenez", "Programación para Testers");
         estudianteLeonardo.presentarse();
          
+        Estudiante estudianteMaria = new Estudiante("Maria Gomez", "Automatización de Pruebas");
+        estudianteMaria.presentarse();
         //Pega tu código aquí abajo
 
         

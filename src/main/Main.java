@@ -25,6 +25,9 @@ public class Main {
       
         //Pega tu código aquí abajo
 
+        Estudiante estudianteMaria = new Estudiante("Maria Lopez", "Programación para Testers");
+        estudianteMaria.presentarse();
+
         
 
 }
